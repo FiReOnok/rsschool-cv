@@ -3,12 +3,13 @@
 * Discord: Fireonok#3868
 * Telegram: [@Fireonok](https://t.me/Fireonok)
 * Email: [fireonok@gmail.com](mailto:fireonok@gmail.com)
+
 ***
 
 ## About Me:
 
 
-## Skills: 
+## Skills:
 * HTML
 * CSS
 * Javascript
