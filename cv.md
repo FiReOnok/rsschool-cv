@@ -7,7 +7,13 @@
 ***
 
 ## About Me:
+I started to get interested in web development at school: started to learn how to create websites, studied html/css.
 
+
+For my graduation project at _Izhevsk industrial and economic college_ I did a website using **Angular**, **MySQL** and **REST API** (unfortunately I lost the final version of the source code so I didn't include it in **Code examples**).
+
+
+My goal is to become a Frontend-developer or _maybe_ a Full-stack developer.
 
 ## Skills:
 * HTML
